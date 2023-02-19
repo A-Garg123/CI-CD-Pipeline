@@ -13,6 +13,7 @@ Images. Docker Hub is Docker's official cloud-based registry. The free
 version of Docker Hub allows for one private repository. Nonpaying
 users are otherwise restricted to public repositories.
 .
+![image](https://user-images.githubusercontent.com/78873371/219970345-b69c30f0-1a0c-49e0-8765-4c5b2396bbc5.png)
 
 # PROJECT DESCRIPTION
 1. JENKINS
